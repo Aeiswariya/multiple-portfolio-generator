@@ -1,0 +1,8 @@
+<?php
+	$server = 'localhost';
+	$username = 'root';
+	$password = 'Rims@1984';
+	$db = 'cms_system';
+	
+	$conn = mysqli_connect($server,$username,$password,$db);
+?>
